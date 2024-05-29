@@ -14,3 +14,6 @@ def gen4(n):
 n = int(input())
 for i in gen4(n):
     print(i)
+
+# for i in gen4(10):
+#     print(i)
