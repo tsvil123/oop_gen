@@ -1,3 +1,4 @@
+import math
 eps = 0.00001
 
 
@@ -24,3 +25,8 @@ for i, j in gen5(x ):
     if abs(j)<eps:
         print(i, j)
         break
+
+# for i, j in gen5(math.pi / 2):
+#     if abs(j)<eps:
+#         print(i, j)
+#         break
