@@ -8,3 +8,6 @@ def gen2(n):
 n = int(input())
 for i in gen2(n):
     print(i)
+
+# for i in gen2(10):
+#     print(i)
