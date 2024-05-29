@@ -15,3 +15,6 @@ def gen3(n):
 n = int(input())
 for i in gen3(n):
     print(i)
+
+# for i in gen3(10):
+#     print(i)
