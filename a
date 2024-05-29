@@ -9,3 +9,6 @@ x = int(input())
 k = int(input())
 for i in gen1(x, k):
     print(i)
+
+# for j in gen1(10, 7):
+#     print(j)
